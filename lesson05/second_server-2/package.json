@@ -1,0 +1,14 @@
+{
+  "name": "second_server",
+  "version": "1.0.0",
+  "description": "Lesson 05 second_server package",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parsia",
+  "license": "MIT",
+  "dependencies": {
+    "http-status-codes": "^1.3.2"
+  }
+}

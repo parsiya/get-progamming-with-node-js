@@ -1,0 +1,11 @@
+{
+  "name": "simple_routes",
+  "version": "1.0.0",
+  "description": "Lesson 05 simple_routes package",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parsia",
+  "license": "MIT"
+}
