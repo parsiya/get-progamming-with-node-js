@@ -1,5 +1,3 @@
-"use strict";
-
 /**
  * Contains the routing functionality.
  */

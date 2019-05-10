@@ -1,0 +1,15 @@
+{
+  "name": "first_express_project",
+  "version": "1.0.0",
+  "description": "First express project from lesson 08",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parsia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "start": "nodemon main.js"
+}
