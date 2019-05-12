@@ -30,3 +30,8 @@ exports.userSignUpProcessor = (req, res) => {
     console.log(req.body);
     res.send("Sign-up successful!");
 };
+
+// /name handler.
+exports.respondWithName = (req, res) => {
+    res.render("name");
+};

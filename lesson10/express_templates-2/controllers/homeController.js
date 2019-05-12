@@ -30,3 +30,10 @@ exports.userSignUpProcessor = (req, res) => {
     console.log(req.body);
     res.send("Sign-up successful!");
 };
+
+// /name handle with parameter.
+exports.respondWithName = (req, res) => {
+    let nameParam = req.params.name;
+    // Pass the parameter to the ejs.
+    res.render("name", {name: nameParam});
+};
